@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+    <xpath expr="/form/field[@name='unit']" position="after">
+        <label name="batch_quantity"/>
+        <group col="2" id="batch_quantity">
+            <field name="batch_quantity"/>
+            <field name="batch_uom"/>
+        </group>
+    </xpath>
+</data>

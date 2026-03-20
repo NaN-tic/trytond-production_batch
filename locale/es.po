@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.product-production.bom,batch_quantity:"
+msgid "Batch Quantity"
+msgstr "Cantidad de lote"
+
+msgctxt "field:product.product-production.bom,batch_uom:"
+msgid "Batch UoM"
+msgstr "UdM del lote"
+
+msgctxt "field:product.product-production.bom,batch_uom_category:"
+msgid "Batch UoM Category"
+msgstr "Categoría UdM del lote"
+
+msgctxt "field:product.product-production.bom,batch_uom_digits:"
+msgid "Batch UoM Digits"
+msgstr "Decimales UdM del lote"
+
+msgctxt "field:production.lead_time,batch_quantity:"
+msgid "Batch Quantity"
+msgstr "Cantidad de lote"
+
+msgctxt "field:production.lead_time,batch_uom:"
+msgid "Batch UoM"
+msgstr "UdM del lote"
+
+msgctxt "field:production.lead_time,batch_uom_category:"
+msgid "Batch UoM Category"
+msgstr "Categoría UdM del lote"
+
+msgctxt "field:production.lead_time,batch_uom_digits:"
+msgid "Batch UoM Digits"
+msgstr "Decimales UdM del lote"
+
+msgctxt "field:production,batch_quantity:"
+msgid "Batch Quantity"
+msgstr "Cantidad de lote"
+
+msgctxt "field:production,batch_uom:"
+msgid "Batch UoM"
+msgstr "UdM del lote"
+
+msgctxt "field:production,batch_uom_category:"
+msgid "Batch UoM Category"
+msgstr "Categoría UdM del lote"
+
+msgctxt "field:production,batch_uom_digits:"
+msgid "Batch UoM Digits"
+msgstr "Decimales UdM del lote"
+
+msgctxt "model:ir.message,text:msg_invalid_batch_multiple"
+msgid ""
+"Production \"%(production)s\" quantity %(quantity)s %(unit)s must be a "
+"multiple of batch %(batch_quantity)s %(batch_uom)s."
+msgstr ""
+"La cantidad %(quantity)s %(unit)s de la orden de producción "
+"\"%(production)s\" debe ser múltiplo del lote %(batch_quantity)s "
+"%(batch_uom)s."

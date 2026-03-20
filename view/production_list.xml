@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<data>
+    <xpath expr="/tree/field[@name='quantity']" position="after">
+        <field name="batch_quantity"/>
+        <field name="batch_uom"/>
+    </xpath>
+</data>

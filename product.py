@@ -2,7 +2,7 @@
 # copyright notices and license terms.
 
 from trytond.model import fields
-from trytond.pool import Pool, PoolMeta
+from trytond.pool import PoolMeta
 from trytond.pyson import Bool, Eval, If
 
 

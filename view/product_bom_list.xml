@@ -3,5 +3,10 @@
     <xpath expr="//field[@name='bom']" position="after">
         <field name="batch_quantity"/>
         <field name="batch_uom"/>
+        <field name="batch_pallets" optional="1"/>
+        <field name="batch_masses" optional="1"/>
+        <field name="masses_per_hour" optional="1"/>
+        <field name="units_per_hour" optional="1"/>
+        <field name="pallets_per_hour" optional="1"/>
     </xpath>
 </data>

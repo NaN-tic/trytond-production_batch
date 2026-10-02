@@ -58,3 +58,35 @@ msgstr ""
 "La cantidad %(quantity)s %(unit)s de la orden de producción "
 "\"%(production)s\" debe ser múltiplo del lote %(batch_quantity)s "
 "%(batch_uom)s."
+
+msgctxt "field:product.product-production.bom,units_per_pallet:"
+msgid "Units per Pallet"
+msgstr "Unidades por palet"
+
+msgctxt "field:product.product-production.bom,units_per_mass:"
+msgid "Units per Dough Batch"
+msgstr "Unidades por masa"
+
+msgctxt "field:product.product-production.bom,batch_pallets:"
+msgid "Batch (Pallets)"
+msgstr "Batch (palets)"
+
+msgctxt "field:product.product-production.bom,batch_masses:"
+msgid "Batch (Dough Batches)"
+msgstr "Batch (número de masas)"
+
+msgctxt "field:product.product-production.bom,masses_per_hour:"
+msgid "Dough Batches per Hour"
+msgstr "Masas por hora"
+
+msgctxt "field:product.product-production.bom,units_per_hour:"
+msgid "Units per Hour"
+msgstr "Unidades por hora"
+
+msgctxt "field:product.product-production.bom,pallets_per_hour:"
+msgid "Pallets per Hour"
+msgstr "Palets por hora"
+
+msgctxt "model:ir.message,text:msg_missing_batch_conversion"
+msgid "Set the product, batch unit and conversion factor before entering a batch in pallets or dough batches."
+msgstr "Indique el producto, la unidad del lote y el factor de conversión antes de introducir un batch en palets o masas."

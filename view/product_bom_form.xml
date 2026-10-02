@@ -6,5 +6,19 @@
             <field name="batch_quantity"/>
             <field name="batch_uom"/>
         </group>
+        <label name="batch_pallets"/>
+        <field name="batch_pallets"/>
+        <label name="batch_masses"/>
+        <field name="batch_masses"/>
+        <label name="units_per_pallet"/>
+        <field name="units_per_pallet"/>
+        <label name="units_per_mass"/>
+        <field name="units_per_mass"/>
+        <label name="masses_per_hour"/>
+        <field name="masses_per_hour"/>
+        <label name="units_per_hour"/>
+        <field name="units_per_hour"/>
+        <label name="pallets_per_hour"/>
+        <field name="pallets_per_hour"/>
     </xpath>
 </data>
